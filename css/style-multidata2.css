@@ -340,6 +340,9 @@ form {
     opacity:1;
   }*/
 
+#treeLeftCol {
+  margin-top:25px;
+}
 .desc {
     float: left;
     xwidth:240px;
