@@ -4346,6 +4346,8 @@
 		color: #fdd1d1;
 		padding: 6em 0 4em 0;
 		background: #1a1a1a;
+		float:left;
+		width:100%;
 	}
 
 	#footer p {
