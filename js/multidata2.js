@@ -207,8 +207,8 @@ function buildTreemap(theData, isBrandMap, parentLabelFontSize, topic) {
             //width = 740;
             //height = 740;
             
-            widthTree = 715;
-            heightTree = 715;
+            widthTree = 766;
+            heightTree = 766;
     
         var treemap = d3.layout.treemap()
             .size([widthTree, heightTree])
